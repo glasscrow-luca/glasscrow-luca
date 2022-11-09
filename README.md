@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Engineering with Python and Full-Stack Development with HTML, CSS, Javascript, React.
 - 💞️ I’m looking to collaborate on anything involving the above technologies! I need practice!
 - 📫 How to reach me: rokulie@gmail.com
-- ✨ Coding is FUN! I wish I'd started earlier!
+- ✨ Coding is FUN! I wish I'd majored in programming instead of design!
 
 <!---
 glasscrow-luca/glasscrow-luca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
